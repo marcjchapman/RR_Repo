@@ -9,7 +9,7 @@
 		"gestation": "n",
 		"unknown indicator": "y",
 		"reference low": "10",
-		"reference high": null,
+		"reference high": "15",
 		"critical low": "5",
 		"critical high": "20"
 	}
