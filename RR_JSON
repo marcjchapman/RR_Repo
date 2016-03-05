@@ -1,0 +1,17 @@
+{
+	"reference_range_set": {
+	  "service resource": "Chem bench",
+	  "assay": "alpha glutamase guanese"
+		"age from": "0",
+		"age to": "150",
+		"species": "human",
+		"sex": "male",
+		"gestation": "n",
+		"unknown indicator": "y",
+		"reference low": "10",
+		"reference high": null,
+		"critical low": "5",
+		"critical high": "20"
+	}
+
+}
